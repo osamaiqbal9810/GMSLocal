@@ -57,6 +57,7 @@
     "lodash": "^4.17.21",
     "moment": "^2.29.3",
     "moment-timezone": "^0.5.43",
+    "next": "^15.3.2",
     "numeral": "^2.0.6",
     "parse-domain": "^7.0.0",
     "prop-types": "^15.8.1",
