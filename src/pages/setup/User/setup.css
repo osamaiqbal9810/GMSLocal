@@ -1,0 +1,30 @@
+.avatar-img {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.setup-text {
+  font-weight: bold;
+}
+
+.hello:active {
+  border: none !important;
+  outline: 0 !important;
+}
+.css-1po9rl4 th {
+  background-color: #1B1464 !important;
+  color: white;
+}
+
+
+.tabStyle {
+  background-color: #fff !important;
+  border-bottom: 0 !important;
+  color: #1B1464 !important;
+  outline: 0 !important;
+}
+
+.css-jpln7h-MuiTabs-scroller{
+  overflow-x: auto!important;
+}

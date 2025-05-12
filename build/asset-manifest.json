@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1575c023.css",
+    "main.js": "/static/js/main.51a30be4.js",
+    "static/media/login.jpg": "/static/media/login.695497fec43cb34df6a4.jpg",
+    "static/media/TTLogo_new.png": "/static/media/TTLogo_new.3b70902f7a59021fa003.png",
+    "static/media/feul1.png": "/static/media/feul1.f3389812798fcdc62620.png",
+    "static/media/feul2.png": "/static/media/feul2.f01954e9cc8cade76026.png",
+    "static/media/feul3.png": "/static/media/feul3.b84da37db21159f781dd.png",
+    "static/media/coolantTemp1.png": "/static/media/coolantTemp1.eeb27cd518c719f690c4.png",
+    "static/media/coolantTemp3.png": "/static/media/coolantTemp3.3c89f302e99a3103db8e.png",
+    "static/media/enginOil2.png": "/static/media/enginOil2.9a1812807f9905b43bfd.png",
+    "static/media/enginOil1.png": "/static/media/enginOil1.0614bbdff657a70575f1.png",
+    "static/media/coolantTemp2.png": "/static/media/coolantTemp2.18bc18680344a8ff1ddd.png",
+    "static/media/bothSource.PNG": "/static/media/bothSource.9d04da84094b51875edb.PNG",
+    "static/media/genOn.PNG": "/static/media/genOn.a92bd29f8b4ae8bd6557.PNG",
+    "static/media/mainOn.PNG": "/static/media/mainOn.347b2ae9805b1f8fb3f6.PNG",
+    "static/media/noSource.png": "/static/media/noSource.4d262d75fbaf43c3d8f4.png",
+    "static/media/time.png": "/static/media/time.4717597fbe10406fe221.png",
+    "static/media/logo.png": "/static/media/logo.99587565368f460361c0.png",
+    "index.html": "/index.html",
+    "main.1575c023.css.map": "/static/css/main.1575c023.css.map",
+    "main.51a30be4.js.map": "/static/js/main.51a30be4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1575c023.css",
+    "static/js/main.51a30be4.js"
+  ]
+}

@@ -1,0 +1,50 @@
+ /* sensor Cards Overrides ; */
+ .Card-header {
+    background-color:#1B1464 !important;
+    height: 50px;
+color: white !important;
+text-align: center;
+padding-top: 10px;
+font-weight: 600;
+font-size: 20px;
+}
+
+.css-dnxkfh-MuiPaper-root-MuiCard-root {
+    border-radius: 0!important;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 34%);
+}
+
+.css-f9f4sa-MuiTypography-root {
+padding: 0 20px;
+}
+.MuiPaper-root {
+    border-radius: 0px !important;
+}
+
+
+.Card-data {
+    display:flex;
+    justify-content:space-around;
+    flex-Wrap:wrap;
+}
+.card-img-text {
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content:center;
+
+}
+.card-img-text img {
+    width:90px
+}
+.card-img-text p {
+    text-align: center;
+} 
+
+    .css-8epd4k {
+        background: #e9e9e9!important;
+    border-bottom: 1px solid rgb(179 179 179)!important;
+}
+
+
+
